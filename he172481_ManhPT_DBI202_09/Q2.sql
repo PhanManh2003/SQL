@@ -1,0 +1,1 @@
+select * from Courses c where c.credits > 3
